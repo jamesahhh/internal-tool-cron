@@ -1,0 +1,7 @@
+{
+  "name": "internal-tool-cron",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "node-cron": "latest"
+  }
+}
